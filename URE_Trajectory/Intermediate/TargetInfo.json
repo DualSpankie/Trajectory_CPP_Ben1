@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "URE_Trajectory",
+			"Path": "C:\\Users\\Benjamin\\Documents\\Unreal Projects\\CPP_Trajectory\\URE_Trajectory\\Source\\URE_Trajectory.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "URE_TrajectoryEditor",
+			"Path": "C:\\Users\\Benjamin\\Documents\\Unreal Projects\\CPP_Trajectory\\URE_Trajectory\\Source\\URE_TrajectoryEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

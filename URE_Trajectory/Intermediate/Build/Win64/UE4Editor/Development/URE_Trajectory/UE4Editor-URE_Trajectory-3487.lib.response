@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-URE_Trajectory-3487.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_Trajectory\URE_Trajectory\Intermediate\Build\Win64\URE_TrajectoryEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_Trajectory\URE_Trajectory\Intermediate\Build\Win64\UE4Editor\Development\URE_Trajectory\URE_Trajectory.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_Trajectory\URE_Trajectory\Intermediate\Build\Win64\UE4Editor\Development\URE_Trajectory\URE_TrajectoryCharacter.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_Trajectory\URE_Trajectory\Intermediate\Build\Win64\UE4Editor\Development\URE_Trajectory\URE_TrajectoryGameMode.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_Trajectory\URE_Trajectory\Intermediate\Build\Win64\UE4Editor\Development\URE_Trajectory\URE_TrajectoryHUD.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_Trajectory\URE_Trajectory\Intermediate\Build\Win64\UE4Editor\Development\URE_Trajectory\URE_TrajectoryProjectile.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_Trajectory\URE_Trajectory\Intermediate\Build\Win64\UE4Editor\Development\URE_Trajectory\URE_Trajectory.init.gen.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_Trajectory\URE_Trajectory\Intermediate\Build\Win64\UE4Editor\Development\URE_Trajectory\URE_TrajectoryCharacter.gen.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_Trajectory\URE_Trajectory\Intermediate\Build\Win64\UE4Editor\Development\URE_Trajectory\URE_TrajectoryGameMode.gen.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_Trajectory\URE_Trajectory\Intermediate\Build\Win64\UE4Editor\Development\URE_Trajectory\URE_TrajectoryHUD.gen.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_Trajectory\URE_Trajectory\Intermediate\Build\Win64\UE4Editor\Development\URE_Trajectory\URE_TrajectoryProjectile.gen.cpp.obj"
+"C:\Users\Benjamin\Documents\Unreal Projects\CPP_Trajectory\URE_Trajectory\Intermediate\Build\Win64\UE4Editor\Development\URE_Trajectory\Default.rc2.res"
+/OUT:"C:\Users\Benjamin\Documents\Unreal Projects\CPP_Trajectory\URE_Trajectory\Intermediate\Build\Win64\UE4Editor\Development\URE_Trajectory\UE4Editor-URE_Trajectory-3487.lib"
+/INCLUDE:IMPLEMENT_MODULE_URE_Trajectory
